@@ -11,5 +11,6 @@ uses the following Plugins:
   - neo-tree
   - vim-tmux-navigator
   - lualine
+  - [vim-autopairs](https://github.com/windwp/nvim-autopairs)
 
 Uses kanagawa as color schema
